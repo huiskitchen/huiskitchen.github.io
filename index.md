@@ -4,3 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
+Hello World
+**Hello World**
+*Hello World*
