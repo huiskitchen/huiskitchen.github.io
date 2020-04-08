@@ -91,14 +91,14 @@ defaults:
 
 # Site Author
 author: Hui Li
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+  name: Hui Li
+  #picture:
+  #email:
+  #twitter:
+  #links:
+  #  - title:
+  #    url:
+  #    icon:
 
 # Footer Links
 footer_links:
