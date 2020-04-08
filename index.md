@@ -1,7 +1,7 @@
 ---
 layout: home
-limit: 10
+paginate: true
 show_excerpts: true
-entries_layout: list
-image: /assets/img/071020-Justin in parade.jpg
+entries_layout: grid
 ---
+[](/assets/img/071020-Justin in parade.jpg)
