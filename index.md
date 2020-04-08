@@ -4,4 +4,4 @@ paginate: true
 show_excerpts: true
 entries_layout: grid
 ---
-[]("/assets/img/071020-Justin in parade.jpg")
+![](/assets/img/071020-Justin in parade.jpg)
