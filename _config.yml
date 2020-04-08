@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: Hui Li
-  name: Hui Li
+#author: Hui Li
+  #name: Hui Li
   #picture:
   #email:
   #twitter:
