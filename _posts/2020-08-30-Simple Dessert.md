@@ -28,5 +28,5 @@ author: Hui Li
 
 2. Add eggs to cooled milk mixture and whisk; pour mixture over bread. Bake for 30 to 45 minutes, or until custard is set but still a little wobbly and edges of bread have browned. Serve warm or at room temperature.
 
-![pic.jpg.png](assets/img/ss-tres-leches-pudding-articleLarge.jpg)
+![pic.jpg.png](breadpudding.jpg)
 
