@@ -6,4 +6,4 @@ entries_layout: grid
 posts_limit: 5
 ---
 
-![Justin](/assets/img/JPEG_20200717_053304.jpg){: .center-image }
+![Justin](/assets/img/r5w6z25eswi51.jpg){: .center-image }
