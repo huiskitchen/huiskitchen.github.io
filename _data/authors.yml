@@ -3,9 +3,20 @@
 
 Hui Li:
   name: Hui Li
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+
+Justin:
+  name: Justin
+  twitter: "@yagamisip"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/yagamisip
       icon: fab fa-twitter-square
+
+Elvin:
+  name: Elvin
+  twitter: "@elvin_zhou"
+  links:
+    - title: Twitter
+      url: https://twitter.com/elvin_zhou
+      icon: fab fa-twitter-square
+

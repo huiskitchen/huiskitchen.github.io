@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Hui's Kitchen"
-description: "It really is the best."
+description: "It's alright I guess?"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://huiskitchen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
