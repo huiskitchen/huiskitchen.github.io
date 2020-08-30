@@ -4,7 +4,7 @@ author: Hui Li
 ---
 # Bread Pudding
 
-## Easy and quick recipe for a delicious dessert (Serves 6)
+## Easy recipe for a delicious dessert (Serves 6)
 
 ### Ingredients
 
